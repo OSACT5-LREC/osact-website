@@ -1,0 +1,20 @@
+---
+widget: blank
+headless: true
+
+# ... Put Your Section Options Here (title etc.) ...
+title: Workshop Description
+subtitle:
+weight: 20  # section position on page
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
+---
+
+<div class="container">
+        <div class="row">
+          <div class="col-lg-8 mx-auto">
+            <p class="lead">Given the success of the first, second, and third workshops on Open-Source Arabic Corpora and Corpora Processing Tools (OSACT) in LREC 2014, LREC 2016 and LREC 2018, the fourth workshop comes to encourage researchers and practitioners of Arabic language technologies, including computational linguistics (CL), natural language processing (NLP), and information retrieval (IR) to share and discuss their research efforts, corpora, and tools. The workshop will also give special attention on Human Language Technologies based on AI/Machine Learning, which is one of LREC 2020 hot topics. In addition to the general topics of CL, NLP and IR, the workshop will give a special emphasis on Offensive Language Detection shared task.</p>
+          </div>
+        </div>
+      </div>

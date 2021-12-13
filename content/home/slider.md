@@ -15,8 +15,7 @@ height: 400px
 
 item:
   - title: Welcome to OSACT5
-    content: 'The 5th Workshop on Open-Source Arabic Corpora and Processing Tools
-with Shared Task on Offensive Language Detection'
+    content: 'The 5th Workshop on Open-Source Arabic Corpora and Processing Tools with Shared Tasks on Quran QA and Fine-Grained Hate Speech Detection'
     # Choose `center`, `left`, or `right` alignment.
     align: center
     # Overlay a color or image (optional).
@@ -34,3 +33,4 @@ with Shared Task on Offensive Language Detection'
 
 
 ---
+<p><font size = "3"><p>Marseille, France. 12th May 2020. Co-located with <a href="https://lrec2020.lrec-conf.org/en/">LREC 2020</a></font></p></p>

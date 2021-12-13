@@ -7,7 +7,7 @@ main:
   - name: Workshop Description
     url: '#description'
     weight: 10
-  - name: Shared Task
+  - name: Quran QA Shared Task
     url: '#shared-task'
     weight: 20
   - name: Topics of Interest
@@ -25,6 +25,9 @@ main:
   - name: Previous OSACT Proceedings
     url: '#proceedings'
     weight: 70  
+  - name: Fine-grained detection of hate speech on Arabic Twitter Shared Task
+    url: '#shared-task2'
+    weight: 35
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

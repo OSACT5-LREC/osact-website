@@ -13,15 +13,12 @@ design:
 <div class="container">
         <div class="row">
           <div class="col-lg-8 mx-auto">
-			<h3>Main Workshop</h3>
-            <ul class="lead">
-              <li>Here are the dates</b></li>
-			</ul>
-			<h3> Shared-task</h3>
-            <ul class="lead">
-              <li>Here are the dates</li>
-			</ul>
-			<p class="lead">All dates are by 23:59 UTC-10 Hawaii timezone</p>
-		  </div>
+            <p class="lead"><font size = "4">
+			Submission deadline: TBD <br>
+Notification of acceptance: TBD <br>
+Camera Ready of manuscripts: TBD<br>
+Workshop date:  TBD
+</font></p>
+          </div>
         </div>
       </div>

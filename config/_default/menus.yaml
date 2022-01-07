@@ -23,7 +23,7 @@ main:
     url: '#committees'
     weight: 60
   - name: Previous OSACT Proceedings
-    url: '#proceedings'
+    url: https://scholar.google.com/citations?user=YmKaJR4AAAAJ&hl=en&authuser=2
     weight: 70  
  
 

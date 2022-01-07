@@ -17,4 +17,6 @@ design:
             The language of the workshop is English and submissions should be with respect to LREC 2022 paper submission instructions <a href = "https://lrec2022.lrec-conf.org/en/submission2020/authors-kit/">(https://lrec2022.lrec-conf.org/en/submission2020/authors-kit/).</a> All papers will be peer reviewed, possibly by three independent referees.  Papers must be submitted electronically in PDF format to the STAR system. <br><br>
             When submitting a paper from the START page, authors will be asked to provide essential information about resources (in a broad sense, i.e. also technologies, standards, evaluation kits, etc.) that have been used for the work described in the paper or are a new result of your research.<br><br>
             Moreover, ELRA encourages all LREC authors to share the described LRs (data, tools, services, etc.) to enable their reuse and replicability of experiments (including evaluation ones).
+            <br><br>
+            Submission link: <a href = "https://www.softconf.com/lrec2022/OSACT2022/">START Page</a>
 

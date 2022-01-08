@@ -14,10 +14,10 @@ design:
         <div class="row">
           <div class="col-lg-8 mx-auto">
             <p class="lead"><font size = "4">
-			Submission deadline: TBD <br>
-Notification of acceptance: TBD <br>
-Camera Ready of manuscripts: TBD<br>
-Workshop date:  TBD
+			Submission deadline: April 10, 2022 <br>
+Notification of acceptance: May 1, 2022 <br>
+Camera Ready of manuscripts: May 25, 2022<br>
+Workshop date: June 20, 2022
 </font></p>
           </div>
         </div>

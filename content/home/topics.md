@@ -25,6 +25,7 @@ This workshop follows the footsteps of previous editions of OSACT to provide a f
 <li> Open source Arabic processing toolkits. </li>
 <br>
 <i> Tools and Technologies: </i> <br>
+
 <li>Language education, e.g., L1 and L2.</li>
 <li>Language modeling and pre-trained models.</li>
 <li>Tokenization, normalization, word segmentation, morphological analysis, part-of-speech tagging, etc. </li>
@@ -41,6 +42,7 @@ This workshop follows the footsteps of previous editions of OSACT to provide a f
 <br>
 <i>Issues in the design, construction and use of Arabic LRs: text, speech, sign, gesture, image, in single or multimodal/multimedia data: </i>
 <br>
+
 <li>Guidelines, standards, best practices and models for LRs interoperability</li>
 <li>Methodologies and tools for LRs construction and annotation</li>
 <li>Methodologies and tools for extraction and acquisition of knowledge</li>

@@ -13,10 +13,11 @@ design:
 active: true
 
 ---
+
 <div class="container">
 <div class="row">
   <div class="col-md-2 mx-auto col-md-6  hero-media">
-        <img src="https://photos.google.com/u/3/photo/AF1QipMuJSjQU8UQFL6RIVmlUE68eHRkZh8W7ZSOPx9H" width="300" height="300" alt=""> 
+        <img src="osact-2.PNG" width="300" height="300" alt=""> 
   </div>
   <div class="col-2 col-md-6 text-center text-md-right">
       <div class="container text-center">

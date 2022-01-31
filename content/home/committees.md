@@ -43,6 +43,7 @@ design:
 <li>Abdulrahman Almuhareb, King Abdulaziz City for Science and Technology, KSA</li>
 <li>Waleed Alsanie, King Abdulaziz City for Science and Technology, KSA</li>
 <li>Sakhar Alkhereyf, King Abdulaziz City for Science and Technology, KSA</li>
+<li>Fouzi Harrag, Ferhat Abbas University, Algeria</li>
 <br>
 More names to come . . .
 

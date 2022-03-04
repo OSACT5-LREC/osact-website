@@ -17,7 +17,7 @@ design:
             <ul class="lead"><font size = "4">
                <li>Hend Al-Khalifa, King Saud University, KSA</li>
 <li>Walid Magdy, University of Edinburgh, UK</li>
-<li>Kareem Darwish, Qatar Computing Research Institute, Qatar</li>
+<li>Kareem Darwish, aiXplain Inc., US</li>
 <li>Tamer Elsayed, Qatar University, Qatar</li>
 <li>Hamdy Mubarak, Qatar Computing Research Institute, Qatar</li>
 <li>Abdulmohsen Al-Thubaity, KACST, KSA</li>

@@ -25,7 +25,12 @@ main:
   - name: Previous OSACT Proceedings
     url: https://scholar.google.com/citations?user=YmKaJR4AAAAJ&hl=en&authuser=2
     weight: 70  
- 
+  - name: Keynote Speaker
+    url: '#keynote'
+    weight: 80
+  - name: List of Accepted Papers
+    url: '#accepted-papers'
+    weight: 90
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

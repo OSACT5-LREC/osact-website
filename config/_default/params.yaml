@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme: minimal
-day_night: false
-font: ''
-font_size: M
+appearance:
+  theme_day: minimal
+  font: minimal
+  font_size: M
 
 # SEO
 

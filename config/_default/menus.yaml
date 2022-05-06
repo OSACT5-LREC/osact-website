@@ -28,7 +28,7 @@ main:
   - name: Keynote Speaker
     url: '#keynote'
     weight: 80
-  - name: List of Accepted Papers
+  - name: Accepted Papers
     url: '#accepted-papers'
     weight: 90
 

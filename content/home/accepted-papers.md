@@ -3,7 +3,7 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: List of Accepted Papers (Main Workshop)
+title: Accepted Papers (Main Workshop)
 subtitle:
 weight: 90  # section position on page
 design:

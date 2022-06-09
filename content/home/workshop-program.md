@@ -12,9 +12,9 @@ design:
 ---
 <table>
     <tr>
-        <td></td>
-        <td></td>
         <td colspan="4">OSACT 5 (The 5th Workshop on Open-Source Arabic Corpora and Processing Tools)</td>
+        <td></td>
+        <td></td>
     </tr>
     <tr bgcolor="#999999">
         <td colspan="1"><i>Session 1</i></td>
@@ -26,7 +26,7 @@ design:
     </tr>
     <tr>
         <td>9:00-9:10</td>
-        <td>Hamdy Mubarak (in-person) &amp; Abdulmohsen Al-Thubaity (Remotly)</td>
+        <td>Hamdy Mubarak (in-person) & Abdulmohsen Al-Thubaity (Remotly)</td>
         <td>Workshop Opening</td>
         <td></td>
         <td></td>
@@ -66,7 +66,7 @@ design:
     </tr>
     <tr>
         <td>11:00-11:20</td>
-        <td>Hamdy Mubarak (in-person) &amp; Hend Al-Khalifa (Remotly)</td>
+        <td>Hamdy Mubarak (in-person) & Hend Al-Khalifa (Remotly)</td>
         <td>Mahmoud El-Haj, Elvis de Souza, Nouran Khallaf, Paul Rayson and Nizar Habash</td>
         <td></td>
         <td>Lancaster University, UK</td>
@@ -122,7 +122,7 @@ design:
     </tr>
     <tr>
         <td>14:00-14:20</td>
-        <td>Hamdy Mubarak (in-person) &amp; Tamer Elsayed (Remotely)</td>
+        <td>Hamdy Mubarak (in-person) &a Tamer Elsayed (Remotely)</td>
         <td>Tamer Elsayed</td>
         <td></td>
         <td>Qatar University, Qatar</td>
@@ -218,7 +218,7 @@ design:
     </tr>
     <tr>
         <td>16:30-16:40</td>
-        <td>Hamdy Mubarak (in-person) &amp; Walid Magdy (Remotly)</td>
+        <td>Hamdy Mubarak (in-person) & Walid Magdy (Remotly)</td>
         <td>Hamdy Mubarak </td>
         <td></td>
         <td>Qatar Computing Research Institute, Qatar</td>

@@ -10,7 +10,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
-<table align="center">
+<table align="center" cellpadding="10">
     <tr>
         <td colspan="4">OSACT 5 (The 5th Workshop on Open-Source Arabic Corpora and Processing Tools)</td>
         <td></td>
@@ -291,8 +291,8 @@ design:
     <tr bgcolor="#999999">
         <td>18:00-18:05</td>
         <td></td>
-        <td></td>
         <td colspan="2">Closing + Best paper award</td>
+        <td></td>
         <td></td>
     </tr>
 </table>

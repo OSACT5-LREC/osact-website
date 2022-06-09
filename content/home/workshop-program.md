@@ -20,6 +20,7 @@ design:
         <td align="center"><i>Session 1</i></td>
         <td align="center"><i>Chair</i></td>
         <td align="center"><i>Authors</i></td>
+        <td align="center"><i></i></td>
         <td align="center"><i>Affliation of the 1st author</i></td>
         <td align="center"><i>Talk</i></td>
     </tr>

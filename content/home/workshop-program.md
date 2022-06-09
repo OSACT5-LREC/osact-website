@@ -19,14 +19,13 @@ design:
     <tr bgcolor="#999999">
         <td align="center"><i>Session 1</i></td>
         <td align="center"><i>Chair</i></td>
-        <td align="center"><i>Room</i></td>
-        <td align="center"><i>In-person or Remote</i></td>
+        <td align="center"><i>Authors</i></td>
         <td align="center"><i>Affliation of the 1st author</i></td>
         <td align="center"><i>Talk</i></td>
     </tr>
     <tr>
         <td>9:00-9:10</td>
-        <td nowrap="true">Hamdy Mubarak (in-person) & Abdulmohsen Al-Thubaity (Remotly)</td>
+        <td>Hamdy Mubarak (in-person) & Abdulmohsen Al-Thubaity (Remotly)</td>
         <td>Workshop Opening</td>
         <td></td>
         <td></td>

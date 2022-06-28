@@ -218,7 +218,7 @@ design:
     </tr>
     <tr>
         <td>16:30-16:40</td>
-        <td nowrap="true">Hamdy Mubarak (in-person) & Walid Magdy (Remotly)</td>
+        <td nowrap="true">Hamdy Mubarak (in-person) & Hend Al-Khalifa (Remotly)</td>
         <td>Hamdy Mubarak </td>
         <td></td>
         <td>Qatar Computing Research Institute, Qatar</td>

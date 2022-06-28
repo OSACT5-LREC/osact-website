@@ -36,6 +36,7 @@ design:
             <ol type = '1' style = "font-weight: 400">
             <li><b>Sub-Task A:</b> <a href = "http://www.lrec-conf.org/proceedings/lrec2022/workshops/OSACT/pdf/2022.osact-1.21.pdf">GOF at Arabic Hate Speech 2022: Breaking The Loss Function Convention For Data-Imbalanced Arabic Offensive Text Detection</a> By Aly Mostafa, Omar Mohamed and Ali Ashraf</li>
             <li><b>Sub-Task B & C:</b><a href = "http://www.lrec-conf.org/proceedings/lrec2022/workshops/OSACT/pdf/2022.osact-1.22.pdf"> iCompass at Arabic Hate Speech 2022: Detect Hate Speech Using QRNN and Transformers</a> By Mohamed Aziz Ben Nessir, Malek Rhouma, Hatem Haddad and Chayma Fourati</li>
+            <li><b>Best Paper</b><a href = "http://www.lrec-conf.org/proceedings/lrec2022/workshops/OSACT/pdf/2022.osact-1.24.pdf"> Multitask learning with self-correction for hate speech classification</a> by Badr AlKhamissi and Mona Diab </li>
             </ol>  
             Congratulations to all winning teams 👏🎉         
             </p>

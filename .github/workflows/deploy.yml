@@ -29,6 +29,6 @@ jobs:
           external_repository: OSACT-LREC/OSACT5-LREC.github.io
           publish_dir: ./public
           #   keep_files: true
-          user_name: osact
+          user_name: OSACT-LREC
           user_email: osact.workshop@gmail.com
           publish_branch: main
